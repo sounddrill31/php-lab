@@ -15,6 +15,9 @@
 
 ## Part B
 
+
+| No | Title of the Experiment | URL | Code | Status |
+| :--- | :--- | :--- | :--- | :--- |
 | 11 | Implement constructor and destructor. | [Link](https://php-lab-demos.neotechclub.qzz.io/partb/prg11-oopprinciples) | [Here](https://github.com/sounddrill31/php-lab/blob/main/partb/prg11-oopprinciples/index.php) | Complete |
 | 12 | Form handling using GET method. | [Link](https://php-lab-demos.neotechclub.qzz.io/partb/prg12-getform) | [Here](https://github.com/sounddrill31/php-lab/blob/main/partb/prg12-getform/index.php) | Complete |
 | 13 | Form handling using POST method. | [Link](https://php-lab-demos.neotechclub.qzz.io/partb/prg13-postform) | [Here](https://github.com/sounddrill31/php-lab/blob/main/partb/prg13-postform/index.php) | Complete |
